@@ -2,6 +2,7 @@
 🎓 AI Educational Learning Path Generator
 
 #Beta Version
+
 https://edupathai.base44.app
 
 Transform any learning goal into a structured, personalized educational journey! This AI-powered chatbot leverages OpenAI GPT-4 and Google Gemini to create comprehensive learning paths with:
